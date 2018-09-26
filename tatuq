@@ -1,0 +1,179 @@
+[33mcommit ee5c3499f6c089e280611ff4275da3771e6325be[m
+Author: Marvin Qian <qianmarv@gmail.com>
+Date:   Wed Sep 26 14:28:14 2018 +0800
+
+    Walkthrough - Step 30: Debugging Tools
+
+[33mcommit 6ae669e7d7743298099f8ec58f37f51d2d0e9fcd[m
+Author: Marvin Qian <qianmarv@gmail.com>
+Date:   Wed Sep 26 14:09:37 2018 +0800
+
+    Walkthrough - Step 29: Integration Test with OPA
+
+[33mcommit 1ea5529335cb834e853e9ec780a878bbfa1dda4f[m
+Author: Marvin Qian <qianmarv@gmail.com>
+Date:   Wed Sep 26 12:58:37 2018 +0800
+
+    Walkthrough - Step 28: Unit Test with QUnit
+
+[33mcommit 6e03df4c40c1296ccfd5ff19317f31c4380879f5[m
+Author: Marvin Qian <qianmarv@gmail.com>
+Date:   Tue Sep 25 10:13:09 2018 +0800
+
+    Walkthrough Step 27: Mock Server COnfiguration
+
+[33mcommit fe79ab7a5fa0f53dd83da85a83d084bed5b4f74d[m
+Author: Marvin Qian <qianmarv@gmail.com>
+Date:   Sun Sep 23 20:34:18 2018 +0800
+
+    Walkthrough - Step 26: Remote OData Service
+
+[33mcommit c1450b60dacaaa472ad7604462c1b78b672dcfdd[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Thu Sep 20 02:03:24 2018 +0800
+
+    Walkthrough Step 24: Filtering
+
+[33mcommit 4dba577681475f021698384dc3efccb8f5b635ec[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Thu Sep 20 01:54:03 2018 +0800
+
+    Walkthrough - Step 23: Custom Formatters
+
+[33mcommit 91a44d17145b418b2dc6c78f0d5ceb234d5ceae7[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Thu Sep 20 01:40:09 2018 +0800
+
+    Walkthrough - Step 22: Expression Binding
+
+[33mcommit a968c69fe7397fb74b0194df44fabf018b03534e[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Thu Sep 20 01:39:36 2018 +0800
+
+    Walkthrough - Step 21: Data Types
+
+[33mcommit e163abdf77014a7455e374d32f62e0f9903e4a46[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Thu Sep 20 01:12:06 2018 +0800
+
+    Walkthrough - Step 20: Aggregation Binding
+
+[33mcommit 59ed12093d579277da8c9802f272f3e9a6686a28[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 20:14:39 2018 +0800
+
+    Walkthrough - Step 19: Reuse Dialogs
+
+[33mcommit 47113026b74bb36cf0c422c2573d82acba38c03a[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 19:58:31 2018 +0800
+
+    Walkthrough - Step 18: Icons
+
+[33mcommit 557e67c701f2ea6b0cbbdc927dbc3940ff546658[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 19:51:06 2018 +0800
+
+    Walkthrough - Step 17: Fragment Callbacks
+
+[33mcommit 503495ade252cdd58173da0227cd0142189a53db[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 19:46:31 2018 +0800
+
+    Walkthrough - Step 16: Dialogs and Fragments
+
+[33mcommit 1a705cb23cf35b23fdd895fbed6ed8d553bedf08[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 19:17:47 2018 +0800
+
+    Walkthrough - Step 15: Nested Views
+
+[33mcommit 18384732a40f7ef176670c0885b00f5215fe06d9[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 18:56:55 2018 +0800
+
+    Walkthrough - Step 14: Custom CSS and Theme Colors
+
+[33mcommit 070aa996a5e9802b3a7bbed6211e07bc7bee1d75[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 18:45:59 2018 +0800
+
+    Walkthrough - Step 13: Margins and Paddings
+
+[33mcommit dd6dd51640f86805603163fb9da531496f7c3d18[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 18:26:07 2018 +0800
+
+    Walkthrough - Step 12: Shell Control as Container
+
+[33mcommit 6ddf1b785470787d1c67662f3d4a6be4685d9cd4[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 18:00:21 2018 +0800
+
+    Walkthrough - Step 11: Pages and Panels
+
+[33mcommit cbd09cee793b70c96816221bf9ffc50c32e9bfda[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 17:53:00 2018 +0800
+
+    Walkthrough - Step 10: Descriptor for Applications
+
+[33mcommit 88fe9b2f7f279da41c3fca6adb0f0cd723843bec[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 17:36:32 2018 +0800
+
+    Walkthrough - Step 9: Component Configuration
+
+[33mcommit 661960a2e90807ae73272c3906a5a35e0364eb30[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 17:14:26 2018 +0800
+
+    Walkthrough - Step 8: Translatable Texts
+
+[33mcommit 2df7c495440c30fd26cb1700e8da52c0efdb9339[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 16:03:19 2018 +0800
+
+    Walkthrough - Step 7: JSON Model
+
+[33mcommit 421845ab3453c9892f2aeaf4bee1d51cb648b7a4[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 15:55:06 2018 +0800
+
+    Walkthrough - Step 6: Modules
+
+[33mcommit f1ffb870cab7c2be6a838d79d9f7de521cf5bef4[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 15:50:23 2018 +0800
+
+    Walkthrough - Step 5: Controllers
+
+[33mcommit e0ee096bea734a32507866df2c1e4b05ca201489[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 15:17:39 2018 +0800
+
+    Walkthrough - Step 4: XML Views
+
+[33mcommit 5c25b9449bc2c1b9edb5fbf0bbe96ff74a9e3109[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 15:11:37 2018 +0800
+
+    Walk Through - Step 3: Controls
+
+[33mcommit 212a0d75df3d4426f6cd7dfebbb7689da8d50733[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Fri Sep 14 15:08:03 2018 +0800
+
+    Walk Through - Step 2: Bootstrap
+
+[33mcommit 6ee0a237abfdf32180c07c28f4e7b019b8151f52[m
+Author: qianmarv <qianmarv@gmail.com>
+Date:   Tue Sep 4 11:26:04 2018 +0800
+
+    Walkthrough - Step 1: Hello World!
+
+[33mcommit 09711a2e6c7d2aa937f83fa98629feef91a9b5e5[m
+Author: Marvin <qianmarv@gmail.com>
+Date:   Tue Sep 4 10:53:53 2018 +0800
+
+    Create LICENSE
