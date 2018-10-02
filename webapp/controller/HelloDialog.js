@@ -24,6 +24,8 @@ sap.ui.define([
                 };
                 oDialog = sap.ui.xmlfragment(oView.getId(), "sap.ui.demo.walkthrough.view.HelloDialog", oFragmentController);
                 oView.addDependent(oDialog);
+
+                jQuery.sap.syncStyleClass(oView.getController().getOwnerComponent().getContentDensityClass() ,oView, oDialog);
             }
             oDialog.open();
         }
